@@ -1,0 +1,2 @@
+127.0.0.1 - - [20/Nov/2018:10:38:05 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [20/Nov/2018:10:38:08 +0530] "GET /library_management/studentProfile.jsp HTTP/1.1" 200 2045
